@@ -1,5 +1,3 @@
 # testerrepo
 
-# apple bananas
-
 #china
